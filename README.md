@@ -11,7 +11,7 @@ Repositorio de la Diplomatura en Ciencia de Datos 2020.
 - Aprendzaje supervisado
 
 ## Resumen
-En este repositorio se encuentran los directorios conteniendo los ejercicios resueltos de las materias de la Diplomatura.
+En este repositorio se encuentran los directorios conteniendo los ejercicios resueltos de algunas materias de la Diplomatura.
 
 Dentro de cada directorio se encuentra un ``README`` con más información sobre el ``.ipynb`` de la materia en cuestión.
 
