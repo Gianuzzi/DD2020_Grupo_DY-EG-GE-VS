@@ -20,7 +20,8 @@ from sklearn.preprocessing import (MinMaxScaler,
                                    StandardScaler)
 from sklearn.tree import (plot_tree,
                           DecisionTreeClassifier)
-from sklearn.ensemble import RandomForestClassifier
+from sklearn.ensemble import (RandomForestClassifier,
+                              GradientBoostingClassifier)
 from sklearn.linear_model import (Perceptron,
                                   SGDClassifier,
                                   LogisticRegression)
